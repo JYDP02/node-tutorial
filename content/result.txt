@@ -1,0 +1,2 @@
+Both files are: this is first test file
+, this is second test file
